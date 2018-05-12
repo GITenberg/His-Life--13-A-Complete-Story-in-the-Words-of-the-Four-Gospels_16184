@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '6663'
     url: http://www.gutenberg.org/2009/agents/6663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16184#His-Life--13-A-Complete-Story-in-the-Words-of-the-Four-Gospels
 gutenberg_issued: '2005-07-02'
 gutenberg_type: Text
 identifiers:
