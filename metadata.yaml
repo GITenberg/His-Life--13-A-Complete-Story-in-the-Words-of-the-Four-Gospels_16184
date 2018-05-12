@@ -1,0 +1,38 @@
+_repo: His-Life--13-A-Complete-Story-in-the-Words-of-the-Four-Gospels_16184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Soares, Theodore Gerald
+    birthdate: 1869
+    gutenberg_agent_id: '6664'
+    url: http://www.gutenberg.org/2009/agents/6664
+  - agent_name: Barton, William Eleazar
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '6665'
+    url: http://www.gutenberg.org/2009/agents/6665
+  - agent_name: Strong, Sydney
+    aliases:
+    - Strong, Sidney
+    - Strong, Sydney Dix
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '6663'
+    url: http://www.gutenberg.org/2009/agents/6663
+description: ''
+gutenberg_issued: '2005-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Biography'
+- !lcc 'BT'
+title: 'His Life: A Complete Story in the Words of the Four Gospels'
+url: http://www.gutenberg.org/ebooks/16184
